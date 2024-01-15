@@ -1,0 +1,5 @@
+1. 2 (Number 2 because following the given corners it is poiting towards the center)
+2. 2 (Number 2 because the sizes of the shapes from left to right sorted ascending order)
+3. 3 (Number 3, from my own understanding the given 2 boxes was collided to each other and the first was leaning to the left part)
+4. 4 (Number 4, from my own understanding by following the pattern the square shape must be the shaded one)
+5. 3 (Number 3 because the from top to bottom match with the answer of number 3)
